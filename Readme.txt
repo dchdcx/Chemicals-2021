@@ -45,8 +45,9 @@ Without Natural Mail数据站 https://www.wnmail.link/data
 网易云音乐上的《Farewell》 https://music.163.com/#/song?id=1482691270
 获取音频文件:
 MP3 Audio:http://music.163.com/song/media/outer/url?id=1482691270.mp3
+Chemicals Audio:https://pan.baidu.com/s/1K5hXGM5mZqV2Dj-_L9R9hg 提取码:glkg
 Chemicals Audio:https://chemicals-1303838446.cos.ap-tokyo.myqcloud.com/audio.chau.ac3
-(作者附：对象储存下行流量炒鸡贵的呐，みんなさん优先考虑MP3链接吖)
+(作者附：对象储存下行流量炒鸡贵的呐，みんな(大家)优先考虑MP3和百度网盘链接吖)
 为了缩小源码压缩包的体积，包中将不会包含启动音乐的音频文件(大约22.8MB)。
 
 2021-01-19 TUE
