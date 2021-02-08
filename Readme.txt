@@ -37,9 +37,9 @@ Alan FEVM 翻译Chemicals 2021至英语
 在此向以上所有无偿贡献者们致谢。
 
 友情链接:
-Without Natural Music官网 https://www.wnmusic.xyz/website
+Without Natural Music官网 https://www.wnmusic.xyz/
 Without Natural Music最新发布 https://www.wnmusic.xyz/latestrelease
-Without Natural Mail官网 https://www.wnmail.link/new
+Without Natural Mail官网 https://www.wnmail.link/
 Without Natural Mail数据站 https://www.wnmail.link/data
 启动歌曲: (该音频已经获得授权)
 网易云音乐上的《Farewell》 https://music.163.com/#/song?id=1482691270
@@ -50,4 +50,4 @@ Chemicals Audio:https://chemicals-1303838446.cos.ap-tokyo.myqcloud.com/audio.cha
 (作者附：对象储存下行流量炒鸡贵的呐，みんな(大家)优先考虑MP3和百度网盘链接吖)
 为了缩小源码压缩包的体积，包中将不会包含启动音乐的音频文件(大约22.8MB)。
 
-2021-01-19 TUE
+2021-02-08 MON
