@@ -30,24 +30,36 @@ File: 背景图文件和图标文件
 主程序代码单独运行音频设置等是会报错的，而且整个程序只能在macOS10.12以上运行。
 软件图标均来自Easy icon网站，若侵权则替换图标。
 
+示例专辑:
+Futurism EP Vol. 1: Day
+ Out Of My Head (Original Mix)
+ Sun Goes Down (Original Mix)
+ Prisoner (Original Mix)
+ Can't Stop Me (Original Mix)
+ Need U Forever (Original Mix)
+>>
+LAME_MP3 Audio: https://pan.baidu.com/s/1ORbun_oK0PAlOV3pp2ICHA 提取码: zyq5
+Chemicals Audio: https://pan.baidu.com/s/1ORbun_oK0PAlOV3pp2ICHA 提取码: zyq5
+
+启动歌曲:
+Farewell
+>>
+LAME_MP3 Audio: http://music.163.com/song/media/outer/url?id=1482691270.mp3
+Chemicals Audio: https://pan.baidu.com/s/1K5hXGM5mZqV2Dj-_L9R9hg 提取码:glkg
+Chemicals Audio: https://chemicals-server.wnmusic.xyz/audio.chau.ac3
+为了缩小源码压缩包的体积，包中将不会包含启动音乐的音频文件(大约22.8MB)。
+
 特别鸣谢:
 3qpQ 修正繁体中文及英语内容中的问题
 5-HTP 提供音乐《Farewell》作为Chemicals 2021的启动音乐
 Alan FEVM 翻译Chemicals 2021至英语
+Future_House_Music 提供Free_CopyingRight专辑《Futurism EP Vol. 1: Day》音源
 在此向以上所有无偿贡献者们致谢。
 
 友情链接:
+Chemicals Server网站 https://chemicals-server.wnmusic.xyz
 Without Natural Music官网 https://www.wnmusic.xyz/
-Without Natural Music最新发布 https://www.wnmusic.xyz/latestrelease
 Without Natural Mail官网 https://www.wnmail.link/
-Without Natural Mail数据站 https://www.wnmail.link/data
-启动歌曲: (该音频已经获得授权)
-网易云音乐上的《Farewell》 https://music.163.com/#/song?id=1482691270
-获取音频文件:
-MP3 Audio:http://music.163.com/song/media/outer/url?id=1482691270.mp3
-Chemicals Audio:https://pan.baidu.com/s/1K5hXGM5mZqV2Dj-_L9R9hg 提取码:glkg
-Chemicals Audio:https://chemicals-1303838446.cos.ap-tokyo.myqcloud.com/audio.chau.ac3
-(作者附：对象储存下行流量炒鸡贵的呐，みんな(大家)优先考虑MP3和百度网盘链接吖)
-为了缩小源码压缩包的体积，包中将不会包含启动音乐的音频文件(大约22.8MB)。
+网易云音乐上的"Farewell" https://music.163.com/#/song?id=1482691270
 
-2021-02-08 MON
+2021-07-03 SAT
